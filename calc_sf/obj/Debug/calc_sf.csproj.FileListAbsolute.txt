@@ -1,0 +1,11 @@
+D:\Программирование\Проекты VS17\calc_sf\bin\Debug\calc_sf.exe.config
+D:\Программирование\Проекты VS17\calc_sf\bin\Debug\calc_sf.exe
+D:\Программирование\Проекты VS17\calc_sf\bin\Debug\calc_sf.pdb
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.csproj.AssemblyReference.cache
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.csproj.SuggestedBindingRedirects.cache
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.Form1.resources
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.Properties.Resources.resources
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.csproj.GenerateResource.cache
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.exe
+D:\Программирование\Проекты VS17\calc_sf\obj\Debug\calc_sf.pdb
