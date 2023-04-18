@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\YSury-84\skill\Module5\bin\Debug\net6.0\Module5.exe
+C:\Users\student\source\repos\YSury-84\skill\Module5\bin\Debug\net6.0\Module5.deps.json
+C:\Users\student\source\repos\YSury-84\skill\Module5\bin\Debug\net6.0\Module5.runtimeconfig.json
+C:\Users\student\source\repos\YSury-84\skill\Module5\bin\Debug\net6.0\Module5.dll
+C:\Users\student\source\repos\YSury-84\skill\Module5\bin\Debug\net6.0\Module5.pdb
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.AssemblyInfo.cs
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.dll
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\refint\Module5.dll
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.pdb
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\Module5.genruntimeconfig.cache
+C:\Users\student\source\repos\YSury-84\skill\Module5\obj\Debug\net6.0\ref\Module5.dll
