@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\bin\Debug\net6.0\Module7.itog.exe
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\bin\Debug\net6.0\Module7.itog.deps.json
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\bin\Debug\net6.0\Module7.itog.runtimeconfig.json
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\bin\Debug\net6.0\Module7.itog.dll
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\bin\Debug\net6.0\Module7.itog.pdb
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.AssemblyInfo.cs
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.dll
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\refint\Module7.itog.dll
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.pdb
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\Module7.itog.genruntimeconfig.cache
+C:\Users\student\source\repos\YSury-84\skill\Module7.itog\obj\Debug\net6.0\ref\Module7.itog.dll
