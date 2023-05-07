@@ -1,0 +1,16 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/skill/FileContentIndex
+/.vs
+/calc_sf/.vs/calc_sf/FileContentIndex
+/Module3+/.vs/Module3+/FileContentIndex
+/Module5/.vs/Module5/FileContentIndex
+/Module5_itog/.vs/Module5_itog/FileContentIndex/1fa602a9-39bc-45c7-b69e-2dc5fb183181.vsidx
+/Module4/.vs/Module4/FileContentIndex
+/Module7.itog/.vs/Module7.itog/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+*.v2
+*.exe
+*.dll
