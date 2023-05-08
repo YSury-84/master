@@ -14,3 +14,6 @@
 *.v2
 *.exe
 *.dll
+/Module8.itog/FinalTask/.vs/FinalTask/v17/.suo
+/Module8.itog/FinalTask/obj/Debug/net6.0/FinalTask.pdb
+/Module8.itog/FinalTask/bin/Debug/net6.0/FinalTask.pdb
