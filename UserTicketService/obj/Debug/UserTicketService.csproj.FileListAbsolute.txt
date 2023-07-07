@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\bin\Debug\UserTicketService.exe.config
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\bin\Debug\UserTicketService.exe
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\bin\Debug\UserTicketService.pdb
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\obj\Debug\UserTicketService.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\obj\Debug\UserTicketService.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\obj\Debug\UserTicketService.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\obj\Debug\UserTicketService.exe
+C:\Users\student\source\repos\YSury-84\skill\UserTicketService\obj\Debug\UserTicketService.pdb
